@@ -37,6 +37,15 @@
 
 ---
 
+#### 12110060
+
+[DataSheet](https://docs.google.com/document/d/1gCtQRM8x5TveqzrY6kM8aGPIa6wQlXdyz515XFjBokE/edit?usp=sharing)
+
+[White Paper](https://docs.google.com/document/d/1aFIsoIXTIUVJ3fWjHP8-Qxv8Ip5T8KQH6p0gUWSk4Mc/edit?usp=sharing)
+
+
+---
+
 #### 13110071
 
 [DataSheet](https://docs.google.com/document/d/1DBGBw6PL_ailYq3lVQD_roV_hyuNWLGoQYw1tlcmQ_Y/edit?usp=sharing)
