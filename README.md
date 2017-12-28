@@ -1,4 +1,4 @@
-현장실습 중
+﻿현장실습 중
 ========
 
 > 기간 : 2017. 12. 26. ~ 진행 중
@@ -33,6 +33,15 @@
 [DataSheet](https://docs.google.com/document/d/1roVNtdpDgs3FJzo_-IOVske8j3RxoAZGjG6wyBf5Da8/edit?usp=sharing)
 
 [White Paper](https://docs.google.com/document/d/1mPbgOnRhE_KpMSWNqU80d5c0Tj60A9P3ufdPGaR1_eI/edit?usp=sharing)
+
+
+---
+
+#### 13110071
+
+[DataSheet](https://docs.google.com/document/d/1DBGBw6PL_ailYq3lVQD_roV_hyuNWLGoQYw1tlcmQ_Y/edit?usp=sharing)
+
+[White Paper](https://docs.google.com/document/d/1VrgKnLZHufdUCy1grBrrBJbFtHziEddGG4ZVVZBaqeo/edit?usp=sharing)
 
 
 ---
