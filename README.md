@@ -4,10 +4,41 @@
 > 기간 : 2017. 12. 26. ~ 진행 중
 > 
 > 참여자 : 4
+ 
+ 
+---
+
+### 도움될 만한 정보
+
+[**NGC** - Nvidia GPU Cloud](https://ngc.nvidia.com/)
+
+[텐서플로우 문서 번역본(원글)](https://tensorflowkorea.gitbooks.io/tensorflow-kr/content/g3doc/tutorials/mnist/pros/)
+
+[**Docker** Installation](https://docs.docker.com/docker-for-mac/install/)
+
+[Sung Kim님의 강좌](https://www.youtube.com/channel/UCML9R2ol-l0Ab9OXoNnr7Lw)
+
+[Tensor Board](http://www.popit.kr/%ED%85%90%EC%84%9C%EB%B3%B4%EB%93%9Ctensorboard-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/)
+
+[**Django Girls**](http://tutorial.djangogirls.org/ko/installation)
+
+[But what is a **Neural Network**? | Chapter 1, deep learning](https://www.youtube.com/watch?v=aircAruvnKk)
+
+[NVIDIA Deep Learning Institute Online Labs](https://developer.nvidia.com/dli/onlinelabs)
+
+[Documentary **Alphago** 2017](https://www.youtube.com/watch?v=4dGZaLWpQEM&feature=youtu.be)
+
+[Deep Learning 데이터 얻기(**Kaggle**)](http://brunch.co.kr/@minwoo/19)
+
+[Machine Learning 스터디(19) Deep Learning -**RBN, DBN, CNN**](http://sanghyukchun.github.io/75)
+
+[**Python Thread** 활용하기](https://github.com/Gyubin/TIL/blob/master/Python/thread.md)
+
+[텐서플로우(TensorFlow) 숫자 인식 테스트 // **MNIST**, 파이썬(Python) 3.5, 윈도우즈(Windows)용](http://comajava.blogspot.kr/2017/01/tensorflow-mnist-python-35-windows.html)
 
 ---
 
-### 참여방법
+### Git 업데이트 방법
 
 ![Install Image](http://postfiles7.naver.net/MjAxNzEyMjhfMjMw/MDAxNTE0NDY4MjY1MzY0.OqdOycCDJtufZAwa9KyxI08zynFdQBR-ZQRPalKYvc4g.WsJiEdjFDUfNdIyOZVsnxKJgYMxsbEAArt7vKtduDQEg.PNG.tnara9573/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2017-12-28_%EC%98%A4%ED%9B%84_10.07.38.png?type=w2)
 
