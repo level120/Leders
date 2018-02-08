@@ -258,8 +258,6 @@ int main(int argc, char **argv)
 
     exit(EXIT_SUCCESS);
 }
-
-
 ```
 
     Overwriting cdpSimpleQuicksort.cu
@@ -278,10 +276,15 @@ int main(int argc, char **argv)
 
 
 ```python
-!./cdpSimpleQuicksort num_items=1000000 device=3
+!./cdpSimpleQuicksort num_items=10000000 device=2
 ```
 
-    CUDA error at ../../common/inc/helper_cuda.h:1078 code=38(cudaErrorNoDevice) "cudaGetDeviceCount(&device_count)" 
+    gpuDeviceInit() CUDA Device [2]: "VCA 6000
+    Initializing data:
+    Running quicksort on 10000000 elements
+    Launching kernel on the GPU
+    Validating results: OK
+    During time: 432.008 (s)
 
 
 
@@ -396,7 +399,7 @@ int main( int argc, char **argv )
     run_qsort( h_data, num_items );
 
     // Check result
-    std::cout << "During time: " << ((double) clock() - start) / CLOCKS_PER_SEC << " (s)" << std::endl;
+    std::cout << "During time: " << ((double) clock() - start_tick) / CLOCKS_PER_SEC << " (s)" << std::endl;
 
     // Finish
     free( h_data );
@@ -420,19 +423,15 @@ int main( int argc, char **argv )
     [01m[KSimpleQuicksort.cpp:31:28:[m[K [01;35m[Kwarning: [m[Kcomparison between signed and unsigned integer expressions [-Wsign-compare]
              while ( array[ j ] > pivot )
     [01;32m[K                            ^[m[K
-    [01m[KSimpleQuicksort.cpp:[m[K In function '[01m[Kint main(int, char**)[m[K':
-    [01m[KSimpleQuicksort.cpp:110:57:[m[K [01;31m[Kerror: [m[K'[01m[Kstart[m[K' was not declared in this scope
-         std::cout << "During time: " << ((double) clock() - start) / CLOCKS_PER_SEC
-    [01;32m[K                                                         ^[m[K
 
 
 
 ```python
-!./SimpleQuicksort num_items=1000000
+!./SimpleQuicksort num_items=10000000
 ```
 
     Running on CPU 
     Initializing data:
-    Running quicksort on 1000000 elements
-    During time :0.23982 (s)
+    Running quicksort on 10000000 elements
+    During time: 2.27702 (s)
 
